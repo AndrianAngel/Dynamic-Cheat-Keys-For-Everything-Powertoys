@@ -25,9 +25,8 @@ This makes searching for files by type or folder lightning-fast inside PowerToys
 
 ---
 
-🔗 Official PowerToys Resources
-- Microsoft PowerToys Overview & Documentation: PowerToys official site  
-- PowerToys Run Utility Guide: PowerToys Run documentation
+🔗 Official PowerToys Github Repository
+https://github.com/microsoft/PowerToys/releases/tag/v0.96.0
 
 ---
 
