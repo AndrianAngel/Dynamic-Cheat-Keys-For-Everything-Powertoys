@@ -54,3 +54,7 @@ This list includes plugins for:
 
 ⚡ Why This Script?
 PowerToys Run is already a powerful launcher, but typing repetitive keywords like folder: or ext: slows down workflow. This script automates those keystrokes, making your search experience faster, cleaner, and more intuitive.
+
+🌹Requirement🌹
+-Autohotkey V1
+-Windows 10 & 11
